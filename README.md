@@ -1,1 +1,1 @@
-![term](/preview/term.png)
+![term](/preview/term2.png)
