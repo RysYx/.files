@@ -8,6 +8,7 @@ cd .files
 dos2unix .tmux.conf
 dos2unix .vimrc
 dos2unix .zshrc
+cp -r .oh-my-zsh/ ../.oh-my-zsh
 mv .tmux.conf ../.tmux.conf
 mv .vimrc ../.vimrc
 mv .zshrc ../.zshrc
