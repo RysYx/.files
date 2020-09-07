@@ -106,3 +106,6 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=3'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 [[ $TERM != "screen" ]] && exec tmux
+
+autoload -U compinit
+compinit
