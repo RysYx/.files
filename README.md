@@ -1,5 +1,5 @@
 ## Basic Installation
-
+### Debian
 #### via wget
 ```shell
 sh -c "$(wget -O- https://raw.githubusercontent.com/RysYx/.files/master/install.sh)"
